@@ -11,12 +11,6 @@ A Flask-based API service for downloading Instagram videos.
 
 ## Quick Start
 
-### Clone the Repository
-
-```bash
-git clone https://github.com/yourusername/instagram-downloader.git
-cd instagram-downloader
-```
 
 ### Development Mode
 
